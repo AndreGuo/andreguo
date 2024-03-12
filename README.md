@@ -2,7 +2,7 @@
 - 📕 Research interests: HDR (High Dynamic Range), Inverse Tone-mapping, Tone-mapping, WCG (Wide Color Gamut), Gamut Mapping, IQA (Iamge Quality Assessment)
 - 📫 Concact: guocheng@cuc.edu.cn, guocheng50655@qq.com, guocheng50655@gmail.com
 - 🔭 Ph.D. (Expected Jun. 2024) at State Key Laboratory of Media Convergence and Communication (MCC), Communication University of China (CUC), Beijing, China
-- 🌱 **Currently** Visiting student at Peng Cheng Laboratory (PCL), Shenzhen, China
+- 🌱 **Currently**: Visiting student at Peng Cheng Laboratory (PCL), Shenzhen, China
 
 <body>
 <table id="tbl" border=1 width="75%" rules=none frame=void>
