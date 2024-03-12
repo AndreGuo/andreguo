@@ -28,23 +28,23 @@ Here are some ideas to get you started:
 -->
 
 ### Main Projects
-### 1. ITM, inverse tone-mapping:
+### 1. ITM, inverse tone-mapping (SDR image to HDR/WCG):
 #### **CVPR2023**: [Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models](https://github.com/AndreGuo/HDRTVDM)
-+ A luminance segmented network (***LSN***) AI model with channel decoupled self-attention, for inverse tone-mapping (SDR image to HDR/WCG).
++ A luminance segmented network (***LSN***) AI model with channel decoupled self-attention, for inverse tone-mapping.
 + New ***HDRTV4K*** training set and test set (SDR-HDR/WCG image pairs).
 + New subjective metrics and objective assessment method on inverse tone-mapped HDR/WCG content.
 
 #### **CVMP2023**: [Redistributing the Precision and Content in 3D-LUT-based Inverse Tone-mapping for HDR/WCG Display](https://github.com/AndreGuo/ITMLUT)
-An efficient AI inverse tone-mapping (SDR image to HDR/WCG) for edge devices:
+An efficient AI inverse tone-mapping for edge devices:
 + AI learning of look-up table (LUT) content, and self-adaptability (LUT content will alter with input image) by the AI merging of basic LUTs.
 + Run with fewer LUT size on higher-bit-depth (10/12bit) HDR/WCG, by discriminative non-uniform sampling of 3 smaller LUTs.
 
-### 2. SI-HDR, single-image HDR reconstruction
+### 2. SI-HDR, single-image HDR reconstruction (SDR to HDR luminance)
 #### **ACCV2022**: [LHDR: HDR Reconstruction for Legacy Content Using a Lightweight DNN](https://github.com/AndreGuo/LHDR)
-+ An AI model for single-image HDR reconstruction (SDR to HDR luminance), with partial convolution and condition.
++ An AI model for single-image HDR reconstruction, with partial convolution and condition.
 + Lightweight design using mixed precision of network parameters etc.
 
-### 3. TM, tone-mapping
+### 3. TM, tone-mapping (HDR luminance to commom SDR image)
 #### **IEEE Access 2021**: [Deep Tone-Mapping Operator Using Image Quality Assessment Inspired Semi-Supervised Learning](https://github.com/AndreGuo/IQATM)
-+ An AI model for tone-mapping (HDR luminance to commom SDR image), with Laplacian Pyramid decomposition.
++ An AI model for tone-mapping, with Laplacian Pyramid decomposition.
 + Introducing IQA (image quality assessment) concept and metrics to unsupervised and semi-supervised training.
