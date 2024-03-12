@@ -1,7 +1,8 @@
 ### Cheng Guo (郭铖/Andre) 👋
 - 📕 Research interests: HDR (High Dynamic Range), Inverse Tone-mapping, Tone-mapping, WCG (Wide Color Gamut), Gamut Mapping, IQA (Iamge Quality Assessment)
 - 📫 Concact: guocheng@cuc.edu.cn, guocheng50655@qq.com, guocheng50655@gmail.com
-- 🔭 Ph.D. (Expected to graduate at Jun. 2024) at Peng Cheng Laboratory (PCL), Shenzhen, China
+- 🔭 Ph.D. (Expected Jun. 2024) at State Key Laboratory of Media Convergence and Communication (MCC), Communication University of China (CUC), Beijing, China
+- 🌱 **Currently** Visiting student at Peng Cheng Laboratory (PCL), Shenzhen, China
 
 <body>
 <table id="tbl" border=1 width="75%" rules=none frame=void>
@@ -25,3 +26,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Main Projects
+### 1. ITM, inverse tone-mapping:
+#### **CVPR2023**: [Learning a Practical SDR-to-HDRTV Up-conversion using New Dataset and Degradation Models](https://github.com/AndreGuo/HDRTVDM)
++ A luminance segmented network (***LSN***) AI model with channel decoupled self-attention, for inverse tone-mapping (SDR image to HDR/WCG).
++ New ***HDRTV4K*** training set and test set (SDR-HDR/WCG image pairs).
++ New subjective metrics and objective assessment method on inverse tone-mapped HDR/WCG content.
+
+#### **CVMP2023**: [Redistributing the Precision and Content in 3D-LUT-based Inverse Tone-mapping for HDR/WCG Display](https://github.com/AndreGuo/ITMLUT)
+An efficient AI inverse tone-mapping (SDR image to HDR/WCG) for edge devices:
++ AI learning of look-up table (LUT) content, and self-adaptability (LUT content will alter with input image) by the AI merging of basic LUTs.
++ Run with fewer LUT size on higher-bit-depth (10/12bit) HDR/WCG, by discriminative non-uniform sampling of 3 smaller LUTs.
+
+### 2. SI-HDR, single-image HDR reconstruction
+#### **ACCV2022**: [LHDR: HDR Reconstruction for Legacy Content Using a Lightweight DNN](https://github.com/AndreGuo/LHDR)
++ An AI model for single-image HDR reconstruction (SDR to HDR luminance), with partial convolution and condition.
++ Lightweight design using mixed precision of network parameters etc.
+
+### 3. TM, tone-mapping
+#### **IEEE Access 2021**: [Deep Tone-Mapping Operator Using Image Quality Assessment Inspired Semi-Supervised Learning](https://github.com/AndreGuo/IQATM)
++ An AI model for tone-mapping (HDR luminance to commom SDR image), with Laplacian Pyramid decomposition.
++ Introducing IQA (image quality assessment) concept and metrics to unsupervised and semi-supervised training.
