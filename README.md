@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 (Model/Algorithm: ***ITM-LUT***):
 
 [Redistributing the Precision and Content in 3D-LUT-based Inverse Tone-mapping for HDR/WCG Display](https://github.com/AndreGuo/ITMLUT)
+
 An efficient AI inverse tone-mapping for edge devices:
 + AI learning of look-up table (LUT) content, and self-adaptability (LUT content will alter with input image) by the AI merging of basic LUTs.
 + Run with fewer LUT size on higher-bit-depth (10/12bit) HDR/WCG, by discriminative non-uniform sampling of 3 smaller LUTs.
