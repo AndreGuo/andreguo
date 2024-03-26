@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 #### 🔭 **CVMP2023**:
 
-(Model/Algorithm: ***ITM-LUT***):
+(Model/Algorithm: ***ITM-LUT***, plus an overview of AI-3D-LUT algorithms):
 
 [Redistributing the Precision and Content in 3D-LUT-based Inverse Tone-mapping for HDR/WCG Display](https://github.com/AndreGuo/ITMLUT)
 
