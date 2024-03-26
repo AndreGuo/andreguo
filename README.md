@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Main Projects
 ### 1. ITM, inverse tone-mapping (SDR image to HDR/WCG):
-#### **CVPR2023**
+#### 🔭 **CVPR2023**
 
 (Project: ***HDRTVDM***; Model: ***LSN***; Dataset: ***HDRTV4K***):
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 + New ***HDRTV4K*** training set and test set (SDR-HDR/WCG image pairs).
 + New subjective metrics and objective assessment method on inverse tone-mapped HDR/WCG content.
 
-#### **CVMP2023**:
+#### 🔭 **CVMP2023**:
 
 (Model/Algorithm: ***ITM-LUT***):
 
@@ -60,7 +60,7 @@ An efficient AI inverse tone-mapping for edge devices:
 + Run with fewer LUT size on higher-bit-depth (10/12bit) HDR/WCG, by discriminative non-uniform sampling of 3 smaller LUTs.
 
 ### 2. SI-HDR, single-image HDR reconstruction (SDR to HDR luminance)
-#### **ACCV2022**:
+#### 🔭 **ACCV2022**:
 
 (Model/Algorithm: ***LHDR***):
 
@@ -69,7 +69,7 @@ An efficient AI inverse tone-mapping for edge devices:
 + Lightweight design using mixed precision of network parameters etc.
 
 ### 3. TM, tone-mapping (HDR luminance to commom SDR image)
-#### **IEEE Access 2021**:
+#### 🔭 **IEEE Access 2021**:
 
 [Deep Tone-Mapping Operator Using Image Quality Assessment Inspired Semi-Supervised Learning](https://github.com/AndreGuo/IQATM)
 
