@@ -9,13 +9,13 @@ guocheng@cuc.edu.cn, guocheng50655@qq.com, guocheng50655@gmail.com
 
 - 🔭 Education:
 
-Ph.D. (Expected Jun. 2024) at State Key Laboratory of Media Convergence and Communication (MCC), Communication University of China (CUC), Beijing, China
+2020-2024: Ph.D. at State Key Laboratory of Media Convergence and Communication (MCC), Communication University of China (CUC), Beijing, China
 
-Visiting student at Peng Cheng Laboratory (PCL), Shenzhen, China
+2022-2024: Visiting student at Deprtment of Media and Interaction, Peng Cheng Laboratory (PCL), Shenzhen, China
 
 - 🌱 Current occupation:
 
-Dispaly algorithm engeneer (mini-LED, image quality) at TCL electronics.
+2024-now: Dispaly algorithm engeneer (mini-LED, image quality) at TCL electronics, TV manufacturer.
 
 <body>
 <table id="tbl" border=1 width="75%" rules=none frame=void>
